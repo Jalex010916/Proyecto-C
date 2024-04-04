@@ -1,0 +1,20 @@
+# ninja log v5
+8	1143	7337204324973008	CMakeFiles/Facultad.dir/Carrera.cpp.obj	531749a0c04aec18
+11	1929	7339005725382175	CMakeFiles/Facultad.dir/main.cpp.obj	6223f5a2204348ea
+1929	2735	7339005733297270	Facultad.exe	183c6dcb46af1b7c
+11	367	7337273644268119	build.ninja	fbf0600fa7572253
+2357	3739	7338589849564738	CMakeFiles/Facultad.dir/Profesor.cpp.obj	b7a5372ef3a9de59
+43	2355	7338589835689616	CMakeFiles/Facultad.dir/Trabajador.cpp.obj	977b44a6c8784f85
+101	2872	7339002171865341	CMakeFiles/Facultad.dir/Secretaria.cpp.obj	a923d12b7dedd50b
+22	2023	7338146086040009	CMakeFiles/Facultad.dir/Estudiante.cpp.obj	61dbf84b3169afb8
+9	3700	7339010773783410	CMakeFiles/Facultad.dir/main.cpp.obj	6223f5a2204348ea
+31	3704	7339010776228077	CMakeFiles/Facultad.dir/Secretaria.cpp.obj	a923d12b7dedd50b
+3705	4236	7339010783505725	Facultad.exe	183c6dcb46af1b7c
+6	1986	7339012870256862	CMakeFiles/Facultad.dir/main.cpp.obj	6223f5a2204348ea
+16	2353	7339012873940773	CMakeFiles/Facultad.dir/Secretaria.cpp.obj	a923d12b7dedd50b
+2354	2712	7339012877479180	Facultad.exe	183c6dcb46af1b7c
+5	2873	7339016533814851	CMakeFiles/Facultad.dir/main.cpp.obj	6223f5a2204348ea
+18	3329	7339016538421993	CMakeFiles/Facultad.dir/Secretaria.cpp.obj	a923d12b7dedd50b
+3330	3722	7339016542299596	Facultad.exe	183c6dcb46af1b7c
+12	2154	7339028119582751	CMakeFiles/Facultad.dir/main.cpp.obj	6223f5a2204348ea
+2155	2558	7339028123610228	Facultad.exe	183c6dcb46af1b7c
